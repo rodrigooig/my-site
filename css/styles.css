@@ -1,11 +1,23 @@
-div {
-  background-color: #feffde;
-}
 body {
   margin: 0;
 }
 h1 {
   margin: 0;
+}
+
+.top-container {
+  background-color: #041c32;
+  color: white;
+}
+.middle-container {
+  background-color: #064663;
+  height: 200px;
+  width: 200px;
+}
+.bottom-container {
+  background-color: #ecb365;
+  height: 200px;
+  width: 200px;
 }
 
 /*
